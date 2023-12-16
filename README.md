@@ -1,4 +1,4 @@
-# spoof your request as a google webcrawler
+# Tutorial
 
 🚩DISCLAIMER THIS IS FOR EDUCATIONAL PURPOSES ONLY
 
@@ -22,5 +22,4 @@ The final result will be a request that appears to originate from a Google web c
 ![Screenshot 2023-12-15 193751](https://github.com/peter0x7f/spoof-as-google-webcrawler/assets/50468072/62c25009-7938-46b3-8820-872bc6bd18ff)
 By following these steps, you can effectively mask your request to resemble that of a Google web crawler. It is imperative to emphasize responsible and ethical use of such techniques, ensuring compliance with legal standards and ethical guidelines.
 
-![Screenshot 2023-12-15 193429](https://github.com/peter0x7f/spoof-as-google-webcrawler/assets/50468072/632f916b-b8cb-4d5c-b6a9-8a290750b2da)
 
